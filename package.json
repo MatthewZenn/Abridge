@@ -1,0 +1,22 @@
+{
+  "name": "abridge",
+  "version": "1.0.0",
+  "description": "a text editor that allows for quick editing of large documents",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewZenn/Abridge.git"
+  },
+  "author": "Matthew Zenn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatthewZenn/Abridge/issues"
+  },
+  "homepage": "https://github.com/MatthewZenn/Abridge#readme",
+  "dependencies": {
+    "electron": "^26.1.0"
+  }
+}
